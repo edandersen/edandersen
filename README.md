@@ -16,7 +16,7 @@ A fully fledged admin site generator for .NET Core. Add one line of code to your
 
 [![Live Subtitler Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=live-subtitler)](https://github.com/edandersen/live-subtitler)
 
-A project to provide live transcription of microphone input into YouTube livestream subtitles, providing a better result than the built in Google provided subtitles. Powered by the Deepgram API.
+A project to provide live transcription of microphone input into YouTube livestream subtitles, providing a better result than the built in Google provided subtitles. Powered by the Deepgram API. TypeScript / React with Tauri for the desktop runtime.
 
 ### Cross Platform Blazor Desktop Sample
 
