@@ -12,8 +12,6 @@ Some of my more interesting projects:
 
 A fully fledged admin site generator for .NET Core. Add one line of code to your Startup.cs or Minimal API Program.cs and get data grids, CRUD screens, validation, file uploads, searching etc of all your database entities.
 
-![A screenshot of Core Admin](https://github.com/edandersen/core-admin/blob/master/docs/screenshot-1.PNG)
-
 ### Cross Platform Blazor Desktop Sample
 
 [![Cross Platform Blazor Desktop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=blazor-desktop-crossplatform-sample)](https://github.com/edandersen/blazor-desktop-crossplatform-sample)
