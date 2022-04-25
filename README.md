@@ -8,7 +8,7 @@ Some of my more interesting projects:
 
 ### Core Admin
 
-[![Core Admin Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=core-admin)](https://github.com/edandersen/coreadmin)
+[![Core Admin Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=core-admin)](https://github.com/edandersen/core-admin)
 
 A fully fledged admin site generator for .NET Core. Add one line of code to your Startup.cs or Minimal API Program.cs and get data grids, CRUD screens, validation, file uploads, searching etc of all your database entities.
 
