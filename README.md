@@ -1,6 +1,6 @@
 ### Hi there, I'm Ed 👋
 
-I'm a software developer from the UK who has worked in Japan, London and Manchester. I build web and desktop apps with React, TypeScript, C#, .NET Core and deploy them on AWS and Azure.
+I'm a software developer from the UK living in Japan. I build web and desktop apps with React, TypeScript, C#, .NET Core and deploy them on AWS and Azure.
 
 [![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=edandersen)](https://github.com/edandersen)
 
