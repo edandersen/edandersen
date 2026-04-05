@@ -6,25 +6,25 @@ Some of my more interesting projects:
 
 ### Core Admin
 
-[![Core Admin Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=core-admin)](https://github.com/edandersen/core-admin)
+https://github.com/edandersen/core-admin
 
 A fully fledged admin site generator for .NET Core. Add one line of code to your Startup.cs or Minimal API Program.cs and get data grids, CRUD screens, validation, file uploads, searching etc of all your database entities.
 
 ### Go on Azure App Service
 
-[![Go On Azure Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=go-azure-appservice)](https://github.com/edandersen/go-azure-appservice)
+https://github.com/edandersen/go-azure-appservice
 
 Working build and Github Actions deployment pipeline for Go / Gin on Azure **without** using Docker containers. Official support for this was removed in 2017 but it can be made to work with some Azure specific tweaks.
 
 ### Live Subtitler
 
-[![Live Subtitler Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=live-subtitler)](https://github.com/edandersen/live-subtitler)
+https://github.com/edandersen/live-subtitler
 
 A project to provide live transcription of microphone input into YouTube livestream subtitles, providing a better result than the built in Google provided subtitles. Powered by the Deepgram API. TypeScript / React with Tauri for the desktop runtime.
 
 ### Cross Platform Blazor Desktop Sample
 
-[![Cross Platform Blazor Desktop Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edandersen&repo=blazor-desktop-crossplatform-sample)](https://github.com/edandersen/blazor-desktop-crossplatform-sample)
+https://github.com/edandersen/blazor-desktop-crossplatform-sample
 
 Using .NET 6 it is possible to write cross platform Desktop and Web apps without using MAUI. This repo shows you how.
 
